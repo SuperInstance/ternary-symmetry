@@ -1,0 +1,8 @@
+[package]
+name = "ternary-symmetry"
+version = "0.1.0"
+edition = "2021"
+description = "Group theory and symmetry operations in ternary space — permutation groups, Cayley tables, Burnside's lemma"
+license = "MIT"
+
+[dependencies]
